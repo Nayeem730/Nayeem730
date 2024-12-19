@@ -3,8 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif">
 
 # About Me
-- 📈 I'm a data professional who resides in Dallas, TX
-- 👨‍💻 I have a bachelor's degree from the University of North Texas and a master's in data analytics from Western Governors University. 
+- 👨‍💻 I'm currently working on obtaining my bachelor of Science in accounting from Western Governors University. My expected graduation will be in May 2025.  
 - 🌱 My top data skills are SQL, Power BI, Data Modeling, and Python. 
 - ✏️ I often post on [LinkedIn](https://www.linkedin.com/in/nayeemchaudhury/)
 - 👯 Checkout my personal [Portfolio](https://nayeemchaudhury.wixsite.com/dataportfolio)
